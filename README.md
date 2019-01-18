@@ -1,3 +1,3 @@
-# Module-18.6
-Module 18 , Task 6 GIF search app
-https://kirdan92.github.io/Module-18.6/.
+# Module-19.3
+Module 19 , Task 3 Stoper app
+https://kirdan92.github.io/Module-19.3-Stoper/
